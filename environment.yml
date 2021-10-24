@@ -1,0 +1,22 @@
+name: project_timo
+channels: 
+- conda-forge
+dependencies:
+- numpy
+- pandas
+- jupyterlab
+- matplotlib
+- seaborn
+- scipy
+- statsmodels
+- simplegeneric
+- rpy2
+
+- pip
+- pip:
+    - stargazer
+    - tabulate
+    - tzlocal
+
+
+
