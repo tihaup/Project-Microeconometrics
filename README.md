@@ -12,17 +12,11 @@ My project is the replication of the paper ["The Price of Forced Attendance"](ht
 
 The Jupyter Notebook of my project can be accessed here: 
 
-<a href="https://nbviewer.jupyter.org/github/OpenSourceEconomics/ose-data-science-course-projeect-tihaup/blob/master/Forced_Attendance_Notebook.ipynb" 
+<a href="https://nbviewer.org/github/tihaup/Project-Microeconometrics/blob/main/Forced_Attendance_Notebook.ipynb" 
    target="_parent">
    <img align="center"
   src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"
       width="109" height="20">
-</a>
-<a href="https://mybinder.org/v2/gh/OpenSourceEconomics/ose-data-science-course-projeect-tihaup/master?filepath=Forced_Attendance_Notebook.ipynb"
-    target="_parent">
-    <img align="center"
-       src="https://mybinder.org/badge_logo.svg"
-       width="109" height="20">
 </a>
 
 Kapoor et al. (2020) estimate the treatment effect of a forced tutorial policy within an undergraduate Economics program using the Regression Discontinuity Design. Students were assigned to treatment based on their first-year GPA. If a GPA value of 7 hasn't been reached within the first year, tutorials became mandatory for these below-7 students in the second-year of the program. 
