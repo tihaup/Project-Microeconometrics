@@ -12,7 +12,7 @@ My project is the replication of the paper ["The Price of Forced Attendance"](ht
 
 The Jupyter Notebook of my project can be accessed here: 
 
-<a href="https://nbviewer.org/github/tihaup/Project-Microeconometrics/blob/main/Forced_Attendance_Notebook.ipynb" 
+<a href="https://mybinder.org/v2/gh/tihaup/Project-Microeconometrics/18adac3c9a686d7dc8f936de46fb793067e3bb56?urlpath=lab%2Ftree%2FForced_Attendance_Notebook.ipynb" 
    target="_parent">
    <img align="center"
   src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"
