@@ -10,14 +10,14 @@ This is the final project of the Microeconometrics course in the summer semester
 
 My project is the replication of the paper ["The Price of Forced Attendance"](https://onlinelibrary.wiley.com/doi/10.1002/jae.2781) by S. Kapoor, M. Oosterveen and D. Webbink (Journal of Applied Econometrics, 2020, Volume 36, Issue 2, pp. 209-227).
 
-The Jupyter Notebook of my project can be accessed here( 
+The Jupyter Notebook of my project can be accessed here:
+
 <a href="https://nbviewer.org/github/tihaup/Project-Microeconometrics/blob/main/Forced_Attendance_Notebook.ipynb" 
    target="_parent">
    <img align="center"
   src="https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.png"
       width="109" height="20">
 </a>
-) or just via the preview of the "Forced_Attendance_Notebook.ipynb".
 
 Kapoor et al. (2020) estimate the treatment effect of a forced tutorial policy within an undergraduate Economics program using the Regression Discontinuity Design. Students were assigned to treatment based on their first-year GPA. If a GPA value of 7 hasn't been reached within the first year, tutorials became mandatory for these below-7 students in the second-year of the program. 
 Kapoor et al. (2020) find particularly large Local Average Treatment Effects in "voluntary" courses where untreated students themselves could choose whether to attend tutorials. In these courses the estimated effect on second-year grades has been significantly negative. The authors argue that the positive effect of tutorials, giving more structure to students, is outweighed by the negative effect of constraining independent study choices.  
